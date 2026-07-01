@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Konami — an ML Engineer / Data Scientist interested in making AI/ML actually useful in real business settings, not just optimizing metrics in a notebook.
+I'm Konami — an ML Engineer / Data Scientist interested in making AI/ML actually useful in real business settings.
 
 - 🔭 I'm currently building an [LLM agent for causal root-cause analysis](https://github.com/konami0328/business-attribution-agent) over business data, and a [demand forecasting / inventory replenishment framework](https://github.com/konami0328/replenishment-decision-kit)
 - 🌱 I'm currently learning more about ML infra / MLOps (serving, monitoring, deployment at scale)
